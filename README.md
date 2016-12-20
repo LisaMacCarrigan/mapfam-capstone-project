@@ -9,7 +9,7 @@
 ----
 ### **Description**
 
-This is a proof of concept web application that allows a user to add basic point data to a map. Data points can include headstone sites, houses and business locations, and other locations deemed important to family members and close friends. This application provides individuals with a visual means to archive important locations for later reference. This application utilizes Drupal 7.x and contributed modules.
+This is a proof of concept web application that allows a user to add basic point data to a map. Data points can include headstone sites, houses and business locations, and other locations deemed important to family members and close friends. This application provides individuals with a visual means to archive important locations for later reference. This application utilizes Drupal 7.x, contributed modules, and custom modules.
 
 ----
 ### **Specifications**
