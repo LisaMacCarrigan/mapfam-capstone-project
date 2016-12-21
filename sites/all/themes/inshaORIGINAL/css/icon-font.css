@@ -6,11 +6,6 @@
   font-style: normal;
 }
 
-@font-face {
-    font-family : "smooth-circulars";
-    src: url("../fonts/smooth-circulars.otf");
-}
-
 [data-icon]:before {
   font-family: "insha-icon-font" !important;
   content: attr(data-icon);

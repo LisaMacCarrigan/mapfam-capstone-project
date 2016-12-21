@@ -3,7 +3,7 @@ body {
   line-height: 1.7em;
   font-family: 'Lato', sans-serif;
   color: #666666;
-  background-color: #F1D34F;
+  background-color: #eaeaea;
   margin: 0;
   padding: 0;
 }
@@ -87,12 +87,12 @@ ul.menu {
 }
 
 a {
-  color: #000000;
+  color: #0fbe7c;
   text-decoration: none;
 }
 
 body a.active {
-  color: #F1D34F;
+  color: #0fbe7c;
   font-weight: bold;
 }
 
@@ -117,7 +117,7 @@ a:hover {
 }
 
 #footer-wrapper a:hover {
-  color: #F1D34F !important;
+  color: #0fbe7c !important;
 }
 
 #footer-wrapper {
@@ -205,7 +205,7 @@ button,
   -webkit-appearance: none !important;
   appearance: none !important;
   cursor: pointer;
-  background-color: #F1D34F;
+  background-color: #0fbe7c;
   border: none;
   margin-right: 10px;
   -webkit-border-radius: 3px;
@@ -584,7 +584,7 @@ input[type="radio"]:checked + label:after {
 
 .field-type-taxonomy-term-reference .field-items .field-item:after {
   content: ",";
-  color: #F1D34F;
+  color: #0fbe7c;
 }
 
 .field-type-taxonomy-term-reference .field-items .field-item:last-child:after {
@@ -788,7 +788,7 @@ ul.primary li a {
 }
 
 .navigation ul.links li.active a {
-  color: #F1D34F;
+  color: #0fbe7c;
   font-weight: bold;
 }
 
@@ -821,7 +821,7 @@ ul.primary li a {
 .icon-comment,
 .icon-comment-1 {
   float: left;
-  color: #F1D34F;
+  color: #0fbe7c;
   margin-top: 0.15em;
 }
 
@@ -968,7 +968,6 @@ ul.menu li:before {
 }
 
 #site-name {
-  font-family: "smooth-circulars";
   margin-bottom: 0;
   padding-bottom: 0;
 }
@@ -1036,7 +1035,7 @@ ul.tabs {
 #block-user-login h2:after,
 #footer-wrapper h2:after,
 #footer-wrapper h3:after {
-  border-bottom: 3px solid #F1D34F;
+  border-bottom: 3px solid #0fbe7c;
   content: " ";
   display: inline-block;
   width: 3em;
