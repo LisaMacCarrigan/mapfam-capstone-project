@@ -12,10 +12,11 @@ MapFam is a proof of concept (and work in progress) web application that provide
 
 ----
 ### **Screenshots**
-[Login Screen](sites/all/themes/insha/img/login.png)
-[Map View](sites/all/themes/insha/img/map.png)
-[Location Close Up](sites/all/themes/insha/img/burialsite.png)
-[Add Location Snippet](sites/all/themes/insha/img/addlocationsnippet.png)
+
+* [Login Screen](sites/all/themes/insha/img/login.png) |
+* [Map View](sites/all/themes/insha/img/map.png) |
+* [Location Close Up](sites/all/themes/insha/img/burialsite.png) |
+* [Add Location Snippet](sites/all/themes/insha/img/addlocationsnippet.png) |
 
 ----
 ### **Setup/Installation Requirements**
@@ -38,10 +39,11 @@ For comments or questions, please email Lisa.MacCarrigan@gmail.com
 ----
 ### **Technologies Used**
 
+* Drupal 7.53
 * PHP
-* HTML
-* CSS
-* Drupal 7.x
+* MAMP Version 4.0.6
+* MySQL Server
+* phpMyAdmin Version 4.6.4
 
 ----
 ### **License**
