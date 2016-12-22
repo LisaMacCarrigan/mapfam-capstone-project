@@ -13,10 +13,10 @@ MapFam is a proof of concept (and work in progress) web application that provide
 ----
 ### **Screenshots**
 
-* [Login Screen](sites/all/themes/insha/img/login.png) |
-* [Map View](sites/all/themes/insha/img/map.png) |
-* [Location Close Up](sites/all/themes/insha/img/burialsite.png) |
-* [Add Location Snippet](sites/all/themes/insha/img/addlocationsnippet.png) |
+* [Login Screen](sites/all/themes/insha/img/login.png) 
+* [Map View](sites/all/themes/insha/img/map.png) 
+* [Location Close Up](sites/all/themes/insha/img/burialsite.png) 
+* [Add Location Snippet](sites/all/themes/insha/img/addlocationsnippet.png) 
 
 ----
 ### **Setup/Installation Requirements**
