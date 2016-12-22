@@ -1,4 +1,4 @@
 name = New Burial Site Custom Form
-description =
+description = A custom module that overrides default name for Cemetery address
 package = Custom Modules
 core = 7.x

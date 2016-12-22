@@ -1,4 +1,4 @@
-# **MapKin**
+# **MapFam**
 
 #### Epicodus Capstone 12.19.2016
 
@@ -8,7 +8,7 @@
 
 ### **Description**
 
-This is a proof of concept web application that allows a user to add basic point data to a map. Data points can include burial sites, properties (i.e. houses and business locations), and other locations deemed important to family members and close friends. This application provides individuals with a visual means to archive important locations for later reference. This application utilizes Drupal 7.x, contributed modules, and custom modules.
+MapFam is a proof of concept web application that allows a user to add basic point data to a map. Data points can include burial sites, properties (i.e. houses and business locations), and other locations deemed important to family members and close friends. This application provides individuals with a visual means to archive important locations for later reference. This application utilizes Drupal 7.x, contributed modules, and custom modules.
 
 ----
 ### **Specifications**
@@ -20,8 +20,8 @@ This is a proof of concept web application that allows a user to add basic point
 ### **Setup/Installation Requirements**
 
 If editing:
-* Clone this repository: https://github.com/LisaMacCarrigan/MapKin_CapstoneProject.git
-* OPEN project folder ('MapKin_CapstoneProject') in Code Editor of choice
+* Clone this repository: https://github.com/LisaMacCarrigan/MapFam_CapstoneProject.git
+* OPEN project folder ('MapFam_CapstoneProject') in Code Editor of choice
 
 
 ----

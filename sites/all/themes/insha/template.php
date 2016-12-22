@@ -77,3 +77,7 @@ function insha_status_messages($variables) {
   }
   return $output;
 }
+
+function insha_system_powered_by() {
+  return '<span>' . t('Made by <a href="@poweredby">Lisa MacCarrigan</a>', array('@poweredby' => 'https://github.com/LisaMacCarrigan')) . '</span>';
+}
