@@ -1,3 +1,25 @@
-/**
- * Place your custom styles here.
- */
+/*Custom Styles*/
+
+@font-face {
+    font-family : "smooth-circulars";
+    src: url("../fonts/smooth-circulars.otf");
+}
+
+
+ /****************************** navbar content ***************************/
+
+.navbar.container, .navbar.container-fluid {
+    margin-top: 0;
+    border-radius: 0;
+    background-color: #FFFFFF;
+}
+
+.navbar-brand {
+    font-family: "smooth-circulars";
+}
+
+h1, h2, h3, a.name.navbar-brand {
+    color: #F1D34F;
+}
+
+ /******************************** page header ****************************/
