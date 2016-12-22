@@ -4,7 +4,13 @@
 
 #### By [Lisa MacCarrigan](https://github.com/lisamaccarrigan)
 
-![screenshot of project main page](img/web-app.png)
+![screenshot of project main page](sites/all/themes/insha/img/web-app.png)
+
+```html
+<pre>
+  <img src="sites/all/themes/insha/img/login.png" width="414"/>
+</pre>
+```
 
 ### **Description**
 
