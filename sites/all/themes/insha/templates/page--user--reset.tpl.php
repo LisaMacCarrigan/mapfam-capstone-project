@@ -4,6 +4,7 @@
       <a href="<?php print url('<front>'); ?>">
         <img src="<?php print $logo; ?>" alt="<?php print $site_name; ?>">
       </a>
+      <p id="custom_slogan">Where family history<br>and location collide</p>
     </h1>
   </div>
 
