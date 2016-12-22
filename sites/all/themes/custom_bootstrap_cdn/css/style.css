@@ -18,8 +18,40 @@
     font-family: "smooth-circulars";
 }
 
-h1, h2, h3, a.name.navbar-brand {
-    color: #F1D34F;
+a.name.navbar-brand {
+    color: #F7CF55;
 }
 
- /******************************** page header ****************************/
+a.name.navbar-brand:hover {
+    color: #F7CF55;
+}
+
+h1, h2, h3 {
+    color: #FFFFFF;
+}
+
+a {
+    color: #777777;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+.btn-primary {
+    color: #FFFFFF;
+    background-color: #171717;
+    border-color: #CCCCCC;
+}
+
+.btn-primary:hover {
+    color: #FFFFFF;
+    background-color: #000000;
+    border-color: #CCCCCC;
+}
+
+body {
+    background-color: #F7CF55;
+}
