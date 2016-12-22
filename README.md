@@ -6,22 +6,17 @@
 
 ![screenshot of project main page](sites/all/themes/insha/img/web-app.png)
 
-```html
-<pre>
-  <img src="sites/all/themes/insha/img/login.png" width="414"/>
-</pre>
-```
-
 ### **Description**
 
 MapFam is a proof of concept (and work in progress) web application that provides users with a way to archive special locations for later reference. Locations include burial sites, properties (i.e. houses and business locations), and other places deemed important to family members and close friends. This application utilizes Drupal 7.x, contributed modules, and custom modules.
 
 ----
-### **Specifications**
-| _Behavior_ | _Input_ | _Output_ |
-|:---------------------------------------------------------------------:|:---------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|
-|  |  |  |
-|  |  |  |
+### **Screenshots**
+[Login Screen](sites/all/themes/insha/img/login.png)
+[Map View](sites/all/themes/insha/img/map.png)
+[Location Close Up](sites/all/themes/insha/img/burialsite.png)
+[Add Location Snippet](sites/all/themes/insha/img/addlocationsnippet.png)
+
 ----
 ### **Setup/Installation Requirements**
 
