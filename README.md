@@ -1,6 +1,6 @@
 # **MapFam**
 
-#### Epicodus Capstone 12.19.2016
+#### Epicodus Capstone 12.22.2016
 
 #### By [Lisa MacCarrigan](https://github.com/lisamaccarrigan)
 
@@ -8,7 +8,7 @@
 
 ### **Description**
 
-MapFam is a proof of concept web application that allows a user to add basic point data to a map. Data points can include burial sites, properties (i.e. houses and business locations), and other locations deemed important to family members and close friends. This application provides individuals with a visual means to archive important locations for later reference. This application utilizes Drupal 7.x, contributed modules, and custom modules.
+MapFam is a proof of concept (and work in progress) web application that provides users with a way to archive special locations for later reference. Locations include burial sites, properties (i.e. houses and business locations), and other places deemed important to family members and close friends. This application utilizes Drupal 7.x, contributed modules, and custom modules.
 
 ----
 ### **Specifications**
@@ -22,7 +22,6 @@ MapFam is a proof of concept web application that allows a user to add basic poi
 If editing:
 * Clone this repository: https://github.com/LisaMacCarrigan/MapFam_CapstoneProject.git
 * OPEN project folder ('MapFam_CapstoneProject') in Code Editor of choice
-
 
 ----
 
@@ -38,9 +37,10 @@ For comments or questions, please email Lisa.MacCarrigan@gmail.com
 ----
 ### **Technologies Used**
 
+* PHP
+* HTML
+* CSS
 * Drupal 7.x
-* Drupal Contributed Modules: Leaflet, Geofield, GeoPHP, CTools, Auto Assign Role, and more
-#
 
 ----
 ### **License**
