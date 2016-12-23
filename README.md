@@ -22,8 +22,8 @@ MapFam is a proof of concept (and work in progress) web application that provide
 ### **Setup/Installation Requirements**
 
 If editing:
-* Clone this repository: https://github.com/LisaMacCarrigan/MapFam_CapstoneProject.git
-* OPEN project folder ('MapFam_CapstoneProject') in Code Editor of choice
+* Clone this repository: https://github.com/LisaMacCarrigan/mapfam-capstone-project.git
+* OPEN project folder ('mapfam-capstone-project') in Code Editor of choice
 
 ----
 
